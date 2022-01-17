@@ -1,4 +1,5 @@
-.left .right {
+.left, 
+.right {
   font-family: Helvetica, 'Times New Roman', sans-serif;
   font-size: 28px;
 }
@@ -10,5 +11,4 @@
 
 .right {
   background-color: yellow;
-  color:black;
 }
