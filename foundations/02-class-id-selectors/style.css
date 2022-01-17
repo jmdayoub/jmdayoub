@@ -4,5 +4,16 @@
 }
 
 .oddly-cool {
-  font-size: 32px;
+  font-size: 24px;
+}
+
+#two {
+  color: #1050ff;
+  font-size: 36px;
+}
+
+#four {
+  background-color: #aaff20bb;
+  font-size: 24px;
+  font-weight: bold;
 }
