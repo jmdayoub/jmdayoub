@@ -30,5 +30,5 @@ a {
 
 .left-links {
   display: inline-flex;
-  justify-content: flex-start;
+  margin-left: -40px;
 }
