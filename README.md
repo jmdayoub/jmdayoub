@@ -3,10 +3,8 @@
 - 🌱 I’m open to learning new technologies and programming languages!
 - ---
 
-<div>
-<h3>Connect with me</h3>
- <a href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
+<a href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 
 <div align="center">
  :hammer_and_wrench: Languages and Tools :
