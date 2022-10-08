@@ -2,14 +2,11 @@
 - 👀 I’m currently working with ReactJS, T-SQL, and C#/.NET Core.
 - 🌱 I’m open to learning new technologies and programming languages. 
 ---
-<div align-center>
-
+<div align="center">
 <a href="https://www.linkedin.com/in/jared-dayoub/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a> 
-
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/jaydaywoo.svg?style=social&label=Follow%20%40jaydaywoo)](https://twitter.com/jaydaywoo)
-    
 </div>
 ---
 
