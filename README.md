@@ -2,11 +2,13 @@
 - 👀 I’m currently working with ReactJS, T-SQL, and C#/.NET Core.
 - 🌱 I’m open to learning new technologies and programming languages. 
 <p align="center">
+  ---
   <a href="https://www.linkedin.com/jared-dayoub" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> Connect with me!
   </a> &nbsp; 
+  ---
 </p>
-- ---
+
 
 
 <div align="center">
