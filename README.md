@@ -13,9 +13,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=jmdayoub&show_icons=true"/>
 ---
-<img style="height: 400px; " src="https://wakatime.com/share/@Cayden/8eda0699-a3e2-42e3-be90-067f8ec5f8a1.svg"/>
 
-<a href="https://wakatime.com/@0f00e971-4774-4a4d-bde7-d4680c553cf9"><img src="https://wakatime.com/badge/user/0f00e971-4774-4a4d-bde7-d4680c553cf9.svg" alt="Total time coded since Jun 8 2022" /></a>
+
 <!---
 jmdayoub/jmdayoub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
