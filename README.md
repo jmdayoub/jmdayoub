@@ -2,7 +2,8 @@
 - 👀 I’m currently working with ReactJS, T-SQL, and C#/.NET Core.
 - 🌱 I’m open to learning new technologies and programming languages. 
 ---
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="jared-dayoub" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/jared-dayoub?trk=profile-badge">Let's connect</a></div>
+<h3>Let's connect</h3>
+---
 <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
