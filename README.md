@@ -1,8 +1,9 @@
-
+<div align="center">
 - 👋 Hi, my name is Jared, and I am a full-stack software engineer.
 - 👀 I’m currently working with ReactJS, T-SQL, and C#/.NET Core!
 - 🌱 I’m open to learning new technologies and programming languages!
 - 📫 How to reach me https://www.linkedin.com/in/jared-dayoub
+</div>
 - ---
 
 <div align="center">
