@@ -4,7 +4,6 @@
 ---
 <h4>Let's connect</h4>
 
----
 <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
