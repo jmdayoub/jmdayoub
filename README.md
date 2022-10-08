@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Jared, a full stack software developer, Navy Veteran, and private pilot with a passion for helping others and all things funny.
+- 👋 Hi, I'm Jared, a full stack software developer, Navy Veteran, and private pilot with a passion for helping others and all things comedy.
 - 👀 I’m currently working with ReactJS, T-SQL, and C#/.NET Core.
 - 🌱 I’m open to learning new technologies and programming languages. 
 ---
