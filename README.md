@@ -13,7 +13,7 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmdayoub&layout=compact&theme=vision-friendly-dark)](https://github.com/jmdayoub/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand"/>
 
 <img src="https://wakatime.com/share/@jdayoub/3377aea5-57c6-4d76-a1e7-d430ce3ebfe9.svg" style="height: 300px"></img>
 
