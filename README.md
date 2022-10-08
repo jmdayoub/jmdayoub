@@ -1,8 +1,12 @@
-- 👋 Hi, my name is Jared, and I am a full-stack software engineer.
+- 👋 Hi, I'm Jared, a full stack software developer, Navy Veteran, and private pilot with a passion for helping others and laughing out loud.
 - 👀 I’m currently working with ReactJS, T-SQL, and C#/.NET Core!
 - 🌱 I’m open to learning new technologies and programming languages!
-- 📫 How to reach me https://www.linkedin.com/in/jared-dayoub
 - ---
+
+<div>
+<h3>Connect with me</h3>
+ <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+</div>
 
 <div align="center">
  :hammer_and_wrench: Languages and Tools :
