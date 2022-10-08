@@ -4,9 +4,9 @@
 ---
 <h4>Let's connect</h4>
 
-<a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp; 
+<a href="https://www.linkedin.com/in/caydenburns/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a> 
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/jaydaywoo.svg?style=social&label=Follow%20%40jaydaywoo)](https://twitter.com/jaydaywoo)
 ---
