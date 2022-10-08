@@ -4,7 +4,6 @@
 - 📫 How to reach me https://www.linkedin.com/in/jared-dayoub
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmdayoub&layout=compact"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=jmdayoub&show_icons=true"/>
 <!---
