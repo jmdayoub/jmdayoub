@@ -2,6 +2,9 @@
 - 👀 I’m currently working with ReactJS, T-SQL, and C#/.NET Core.
 - 🌱 I’m open to learning new technologies and programming languages. 
 ---
+<br>
+<img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+<br>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/jared-dayoub/">
