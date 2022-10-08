@@ -5,7 +5,7 @@
 <p align="center">
   
   <a href="https://www.linkedin.com/jared-dayoub" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> Connect with me!
+    ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
   </a> &nbsp; 
 </p>
 ---
