@@ -3,7 +3,8 @@
 - 🌱 I’m open to learning new technologies and programming languages!
 - 📫 How to reach me https://www.linkedin.com/in/jared-dayoub
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmdayoub&layout=compact"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmdayoub&layout=compact&theme=vision-friendly-dark)](https://github.com/jmdayoub/github-readme-stats)
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=jmdayoub&show_icons=true"/>
 <!---
