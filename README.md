@@ -1,11 +1,11 @@
 - 👋 Hi, I'm Jared, a full stack software developer, Navy Veteran, and private pilot with a passion for helping others and all things funny.
 - 👀 I’m currently working with ReactJS, T-SQL, and C#/.NET Core.
-- 🌱 I’m open to learning new technologies and programming languages.
-- <p>
+- 🌱 I’m open to learning new technologies and programming languages. 
+<p align="center">
   <a href="https://www.linkedin.com/jared-dayoub" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> Connect with me!
   </a> &nbsp; 
- </p>
+</p>
 - ---
 
 
