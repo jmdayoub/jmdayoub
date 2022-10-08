@@ -1,6 +1,11 @@
-- 👋 Hi, I'm Jared, a full stack software developer, Navy Veteran, and private pilot with a passion for helping others and laughing out loud.
-- 👀 I’m currently working with ReactJS, T-SQL, and C#/.NET Core!
-- 🌱 I’m open to learning new technologies and programming languages!
+- 👋 Hi, I'm Jared, a full stack software developer, Navy Veteran, and private pilot with a passion for helping others and all things funny.
+- 👀 I’m currently working with ReactJS, T-SQL, and C#/.NET Core.
+- 🌱 I’m open to learning new technologies and programming languages.
+- <p>
+  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+ </p>
 - ---
 
 <a href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
