@@ -4,7 +4,7 @@
 ---
 <h4>Let's connect</h4>
 
-<a href="https://www.linkedin.com/in/caydenburns/">
+<a href="https://www.linkedin.com/in/jared-dayoub/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> 
 
