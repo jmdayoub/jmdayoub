@@ -7,8 +7,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a> 
     
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/jaydaywoo.svg?style=social&label=Follow%20%40jaydaywoo)](https://twitter.com/jaydaywoo)
-    
 </div>
 <div align="center">
 <br>
