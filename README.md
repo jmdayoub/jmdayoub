@@ -1,5 +1,6 @@
 - 👋 Hi, I'm Jared, a Data Engineer, Navy Veteran, private pilot, and lifelong learner with a passion for helping others.
-- 👀 I’m currently working with SQL, Python, and Azure for a major healthcare company.
+- 👀 I’m currently working with SQL, Python, and Azure for UnitedHealth Group.
+- Most of my contributions are private under @UHG and @OptumInsight-Analytics
 ---
 <div align="center">
 <a href="https://www.linkedin.com/in/jared-dayoub/">
