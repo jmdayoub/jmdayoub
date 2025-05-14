@@ -1,6 +1,5 @@
-- 👋 Hi, I'm Jared, a full stack software developer, Navy Veteran, private pilot, and lifelong learner with a passion for helping others.
-- 👀 I’m currently working with React.js, SQL, and C#/.NET Core.
-- 🌱 I’m open to collaborating on open source projects and learning new technologies and programming languages.
+- 👋 Hi, I'm Jared, a Data Engineer, Navy Veteran, private pilot, and lifelong learner with a passion for helping others.
+- 👀 I’m currently working with SQL, Python, and Azure for a major healthcare company.
 ---
 <div align="center">
 <a href="https://www.linkedin.com/in/jared-dayoub/">
